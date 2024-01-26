@@ -1,16 +1,30 @@
-### Hi there 👋
+# Heyo, I'm Mack! 👋
 
-<!--
-**MackHalliday/MackHalliday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Updated as of Jan 26th, 2024_
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a **Backend-Focused Full Stack Software Developer** with experience in:
+- **Python Frameworks**: Django, Flask
+- **JavaScript/TypeScript Frameworks**: React, Node.js
+- **AWS Serverless Architectures**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects to expand my knowledge in AWS App Hosting, CI/CD Pipelines, Environment Setup, Containerization, and the Python Ecosystem.
+
+## 🌈 Top Interests at the Moment:
+- **AWS**: Mastering sercurity groups and IAM
+- **Terraform**
+- **Docker** 
+- **CI/CD**: Github Actions
+- **FastAPI** 
+
+## 🌐 My Projects
+- I'm currently working on an [MTA Alerts App](https://github.com/MackHalliday/subscribe_to_MTA_alerts).
+- I enjoy participating in [John Crickett's Weekly Code Challenges](https://codingchallenges.fyi/challenges/intro).
+- I create empty repos to track [potential future projects](https://github.com/MackHalliday?tab=repositories&q=Potential+Project&type=&language=&sort=). No matter how too weird.
+
+## 🤝 Connect with Me
+- If you're interested in learning more about my work, don't hesitate to reach out via [LinkedIn](https://www.linkedin.com/in/mackhalliday/) or email at mackenzie.halliday@gmail.com.
+
+---
+
+Thank you for visiting my profile! ⭐️
