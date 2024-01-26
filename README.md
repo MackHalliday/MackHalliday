@@ -21,7 +21,7 @@ I enjoy building projects to expand my knowledge in AWS App Hosting, CI/CD Pipel
 - **FastAPI** 
 
 ## 🌐 My Projects
-- I'm currently working on an [MTA Alerts App](https://github.com/MackHalliday/subscribe_to_MTA_alerts).
+- I'm currently working on an [MTA Alerts App](https://github.com/MackHalliday/subscribe_to_MTA_alerts). I'm creating this app to explore Terraform, CI/CD, and Twilio.
 - I enjoy participating in [John Crickett's Weekly Code Challenges](https://codingchallenges.fyi/challenges/intro).
 - I create empty repos to track [potential future projects](https://github.com/MackHalliday?tab=repositories&q=Potential+Project&type=&language=&sort=). No matter how weird.
 
