@@ -3,7 +3,7 @@
 _Updated as of Jan 26th, 2024_
 
 ## 🚀 About Me
-I'm a **Backend-Focused Full Stack Software Developer** based out of NYC! 
+I'm a **Backend-Focused Full Stack Software Developer** based out of NYC.
 
 I primarily develop in: 
 - **Python Frameworks**: Django, Flask
