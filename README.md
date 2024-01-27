@@ -16,8 +16,7 @@ I enjoy building projects to expand my knowledge in AWS App Hosting, CI/CD Pipel
 - [**Responsible Tech**](https://alltechishuman.org/)
 - **AWS**: Mastering security groups and IAM
 - **Terraform**
-- **Docker** 
-- **CI/CD**: Github Actions
+- **CI/CD**: Using Github Actions
 - **FastAPI** 
 
 ## 🌐 My Projects
