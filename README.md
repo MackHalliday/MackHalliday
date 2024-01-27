@@ -22,7 +22,7 @@ I enjoy building projects to expand my knowledge in AWS App Hosting, CI/CD Pipel
 ## 🌐 My Projects
 - I'm currently working on an [MTA Alerts App](https://github.com/MackHalliday/subscribe_to_MTA_alerts). I'm creating this app to explore Terraform, CI/CD, and Twilio.
 - I enjoy participating in [John Crickett's Weekly Code Challenges](https://codingchallenges.fyi/challenges/intro). 
-- I create empty repos to track [ideas for future projects](https://github.com/stars/MackHalliday/lists/future-ideas) - No matter how werid. 
+- I create empty repos to track [ideas for future projects](https://github.com/stars/MackHalliday/lists/future-ideas) - No matter how werid. I have no intention of monetizing these projects - just ideas I could use to explore tech. 
 
 ## 🤝 Connect with Me
 - If you're interested in learning more about my work, don't hesitate to reach out via [LinkedIn](https://www.linkedin.com/in/mackhalliday/) or email at mackenzie.halliday@gmail.com.
