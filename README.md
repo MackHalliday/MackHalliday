@@ -21,7 +21,7 @@ I enjoy building projects to expand my knowledge in AWS App Hosting, CI/CD Pipel
 
 ## 🌐 My Projects
 ### Current Projects
-- I'm working on an [**MTA Alerts App**](https://github.com/MackHalliday/subscribe_to_MTA_alerts). I'm creating this app to explore Terraform, CI/CD, and Twilio.
+- I'm working on an [**MTA Alerts App**](https://github.com/MackHalliday/subscribe_to_MTA_alerts). I'm creating this app to explore Terraform, GitActions CI/CD, and Twilio.
 - I'm working on a smaller Twilio project - [**Twilio Survey Example Project**](https://github.com/MackHalliday/twilio_survey_example_project). This is a simple app to send a survey to multiple users via Twilio SMS.
   
 ### Others
