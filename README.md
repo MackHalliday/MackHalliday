@@ -13,6 +13,7 @@ I primarily develop in:
 I enjoy building projects to expand my knowledge in AWS App Hosting, CI/CD Pipelines, Environment Setup, Containerization, and the Python Ecosystem.
 
 ## 🌈 Top Interests at the Moment:
+_What I'm learning_
 - [**Responsible Tech**](https://alltechishuman.org/)
 - **AWS**: Mastering security groups and IAM
 - **Terraform**
