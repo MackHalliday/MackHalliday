@@ -1,7 +1,5 @@
 # Heyo, I'm Mack! 👋
 
-_Updated as of Jan 26th, 2024_
-
 ## 🚀 About Me
 I'm a **Backend-Focused Full Stack Software Developer** based out of NYC.
 
